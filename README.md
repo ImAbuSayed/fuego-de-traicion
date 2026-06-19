@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fuego-de-traicion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Fuego de traición](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-de-traicion/) |
+| **Get License** | [Official Music Licensing for Fuego de traición](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-de-traicion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `8396fbc582101619ccf70485a124b2d5511eaa22eaa9d7291d46499785193546` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `cb6c950f0ba3c7b91704e1f802c55c50143f3d374ca336f2f76b2cf2ae755928` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

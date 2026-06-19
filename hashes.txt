@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Fuego de
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T02:35:52.481038 | `v1` | `8396fbc582101619ccf70485a124b2d5511eaa22eaa9d7291d46499785193546` | `f4a754e294d1e599d20fc84800f3138a462433a253f6c87ce2090d34c3680a9a` | `2026-06-20_fuego-de-traicion-v1.txt` |
+| 2026-06-20T03:20:50.737783 | `v2` | `cb6c950f0ba3c7b91704e1f802c55c50143f3d374ca336f2f76b2cf2ae755928` | `00e49bf32d0c408f712ab8630635cba46ee71443553ef1556a394c6764f77df0` | `2026-06-20_fuego-de-traicion-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
