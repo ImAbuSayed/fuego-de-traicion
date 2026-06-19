@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Fuego de traición |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fuego-de-traicion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Fuego de traición](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-de-traicion/) |
+| **Get License** | [License this song: Fuego de traición](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-de-traicion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Dime si esta noche el fuego nos va a quemar
-> Solo con mirarme sé que quieres jugar
-> En la pista, mami, te veo brillar
-> Un veneno dulce que me empieza a matar
+> Fuego de traición, tu cuerpo llama así
+> Bajo la luna, nadie nos va a detener
+> Fuego de traición, quemando el porvenir
+> Bailando lento, me pierdo en tu piel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
