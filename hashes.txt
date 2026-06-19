@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Fuego de traición
+
+This log tracks the cryptographic history and versioning for the song **Fuego de traición** (fuego-de-traicion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T02:35:52.481038 | `v1` | `8396fbc582101619ccf70485a124b2d5511eaa22eaa9d7291d46499785193546` | `f4a754e294d1e599d20fc84800f3138a462433a253f6c87ce2090d34c3680a9a` | `2026-06-20_fuego-de-traicion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
