@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche el fuego nos va a quemar
+> Solo con mirarme sé que quieres jugar
+> En la pista, mami, te veo brillar
+> Un veneno dulce que me empieza a matar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
